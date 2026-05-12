@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<b> Learning Stack <b> <p>
+[![My Skills](https://skillicons.dev/icons?i=python,flask,sklearn,javascript,java,c&theme=dark)](https://skillicons.dev)
+
+
+
 <!--
 **v1trovao/v1trovao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
