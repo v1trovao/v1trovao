@@ -1,7 +1,9 @@
-## Hi there 👋
+## About
+🎓 Information Systems student at UEA <br>
 
-🔭 Interests: Backend, Data, Web Development <br>
-📫 A lifetime goal: learning and developing <nr>
+🔭 Interested in Web Development and Information Technology <br>
 
-<b> Learning Stack <b> <p>
-[![My Skills](https://skillicons.dev/icons?i=python,flask,sklearn,javascript,java,c&theme=dark)](https://skillicons.dev)
+📫 Currently improving my knowledge in backend development, data and software engineering <nr>
+
+<b> Tech Stack <b> <p>
+[![My Skills](https://skillicons.dev/icons?i=python,flask,sklearn,javascript,java,c,sql&theme=dark)](https://skillicons.dev)
